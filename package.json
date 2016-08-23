@@ -1,0 +1,11 @@
+{
+  "name": "node-sass-issue-1672",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "author": "Chris Montgomery",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
+}
